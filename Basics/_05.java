@@ -1,3 +1,4 @@
+// insert an element at nth index of an array 
 package Basics;
 
 import java.util.*;
@@ -22,3 +23,6 @@ public class _05 {
     }
     
 }
+
+// Time Complexity = O(N)
+// Space Complexity = O(N)
